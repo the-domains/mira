@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2041968
+color:
+  lightness: 0
+  brandStrength: 1
+  saturation: 0
+  rhythmicContrast: 0.5340425
+  brandColors:
+    - '#BDC7C5'
+    - '#284B76'
+    - '#0D274B'
+    - '#4B7691'
+    - '#021D11'
+name: Mira
